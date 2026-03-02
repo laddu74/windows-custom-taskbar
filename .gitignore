@@ -1,0 +1,20 @@
+# Visual Studio / .NET Core
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image cache
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Executables
+*.exe
+*.dll
